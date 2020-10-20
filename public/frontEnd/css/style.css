@@ -1,0 +1,18 @@
+p {
+    color: black !important;
+}
+a {
+    color: black !important;
+}
+.hoverrr a:hover {
+    color: orange !important;
+}
+.viewmenu a:hover {
+    color: orange !important;
+}
+.menuheaderr a:hover {
+    color: orange !important;
+}
+.menuheaderrtop a:hover{
+    color: orange !important;
+}
